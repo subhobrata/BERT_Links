@@ -5,3 +5,8 @@ https://jaketae.github.io/study/relative-positional-encoding/?utm_content=190320
 
 #
 https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+
+#
+https://jalammar.github.io/illustrated-transformer/
+https://e2eml.school/transformers.html
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
