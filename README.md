@@ -5,6 +5,8 @@ https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html
 https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be
 https://hal.archives-ouvertes.fr/hal-03038776/document
 https://compneuro.neuromatch.io/tutorials/intro.html
+https://engineering.purdue.edu/DeepLearn/pdf-kak/
+
 
 #
 https://wandb.ai/wandb_fc/LayerNorm/reports/Layer-Normalization-in-Pytorch-With-Examples---VmlldzoxMjk5MTk1
