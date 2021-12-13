@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=-NBvRNPRzTo
 
 #
 https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n
+https://stackoverflow.com/questions/37095783/how-is-a-convolution-calculated-on-an-image-with-three-rgb-channels?noredirect=1&lq=1
+https://stackoverflow.com/questions/54727606/how-do-convolutional-layers-cnns-work-in-keras?noredirect=1&lq=1
+https://stackoverflow.com/questions/65275805/how-to-implement-two-layers-of-keras-conv1d-in-numpy?rq=1
 
 #
 https://jaketae.github.io/study/relative-positional-encoding/?utm_content=190320977&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735
