@@ -1,6 +1,9 @@
 # BERT_Links
 
 #
+http://web.stanford.edu/class/cs124/
+
+#
 https://www.eecs.yorku.ca/~kosta/Courses/EECS4422-F21/index.html
 
 #
