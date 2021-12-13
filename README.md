@@ -6,6 +6,7 @@ https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be
 https://hal.archives-ouvertes.fr/hal-03038776/document
 https://compneuro.neuromatch.io/tutorials/intro.html
 https://engineering.purdue.edu/DeepLearn/pdf-kak/
+https://androidkt.com/use-the-batchnorm-layer-in-pytorch/
 
 
 #
