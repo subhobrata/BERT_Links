@@ -1,6 +1,12 @@
 # BERT_Links
 
 #
+https://wandb.ai/wandb_fc/LayerNorm/reports/Layer-Normalization-in-Pytorch-With-Examples---VmlldzoxMjk5MTk1
+
+#
+https://docs.wandb.ai/ref/app/features/panels/weave/embedding-projector
+
+#
 http://web.stanford.edu/class/cs124/
 
 #
