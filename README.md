@@ -1,6 +1,7 @@
 # BERT_Links
 
 # Deep learning for all at Manas lab IIT Mandi
+https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
 https://www.youtube.com/channel/UC1Ydk1dFuC3In6zWUaBXFZQ/videos
 https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html
 https://towardsdatascience.com/understanding-dimensions-in-pytorch-6edf9972d3be
