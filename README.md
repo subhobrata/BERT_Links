@@ -9,6 +9,7 @@ https://hal.archives-ouvertes.fr/hal-03038776/document
 https://compneuro.neuromatch.io/tutorials/intro.html
 https://engineering.purdue.edu/DeepLearn/pdf-kak/
 https://androidkt.com/use-the-batchnorm-layer-in-pytorch/
+https://twitter.com/abhi1thakur/status/1470406419786698761
 
 
 #
