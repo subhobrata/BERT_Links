@@ -1,4 +1,8 @@
 # BERT_Links
+
+https://minitorch.github.io/
+https://github.com/minitorch/minitorch
+
 https://github.com/ashishpatel26/Treasure-of-Transformers
 https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/
 
