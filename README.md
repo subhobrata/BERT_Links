@@ -9,6 +9,7 @@ https://github.com/ashishpatel26/Treasure-of-Transformers
 https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/
 
 # Deep learning for all at Manas lab IIT Mandi
+https://gmihaila.github.io/
 https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
 https://www.youtube.com/channel/UC1Ydk1dFuC3In6zWUaBXFZQ/videos
 https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html
