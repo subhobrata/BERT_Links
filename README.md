@@ -1,5 +1,6 @@
 # BERT_Links
 
+https://www.youtube.com/playlist?list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51
 https://dialog-systems-class.github.io/readings.html#now
 https://sites.google.com/view/sandeepkr/teaching/ell-888-advanced-machine-learning
 https://www.ipb.uni-bonn.de/teaching/
