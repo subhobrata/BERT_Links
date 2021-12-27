@@ -1,5 +1,6 @@
 # BERT_Links
 
+https://neptune.ai/blog/xgboost-vs-lightgbm?utm_source=linkedin&utm_medium=post&utm_campaign=blog-xgboost-vs-lightgbm
 https://www.youtube.com/c/PythonSimplified/videos
 https://github.com/StatMixedML?tab=repositories
 https://www.youtube.com/playlist?list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51
