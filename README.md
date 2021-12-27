@@ -1,6 +1,7 @@
 # BERT_Links
 
 https://towardsai.net/p/l/kernels-vs-filters-demystified?utm_source=twitter&utm_medium=social&utm_campaign=rop-content-recycle
+https://medium.com/mlearning-ai/how-normalization-affects-image-styles-edec31841bb4
 https://neptune.ai/blog/xgboost-vs-lightgbm?utm_source=linkedin&utm_medium=post&utm_campaign=blog-xgboost-vs-lightgbm
 https://www.youtube.com/c/PythonSimplified/videos
 https://github.com/StatMixedML?tab=repositories
