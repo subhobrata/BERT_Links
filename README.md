@@ -3,6 +3,7 @@
 Credit Cards: The Business of Enslaving Poor People
 https://www.youtube.com/watch?v=bua07BbeJC0
 
+https://distribution-explorer.github.io/
 https://www.kaggle.com/rhtsingh/code
 https://github.com/ashishpatel26/Class-Imbalance
 https://github.com/ashishpatel26/best-of-ml-python
