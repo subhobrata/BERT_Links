@@ -1,5 +1,6 @@
 # BERT_Links
 
+https://www.youtube.com/channel/UCmct-3iP5w66oZzN_V5dAMg/playlists
 https://careers.sig.eu/o/machine-learning-software-engineering-researcher
 
 Credit Cards: The Business of Enslaving Poor People
