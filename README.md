@@ -82,3 +82,29 @@ https://nlp.seas.harvard.edu/2018/04/03/attention.html
 #
 https://colah.github.io/posts/2015-09-Visual-Information/
 https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+
+𝐓𝐡𝐞 𝐧𝐞𝐰 𝐞𝐝𝐢𝐭𝐢𝐨𝐧 𝐨𝐟 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐬𝐭𝐚𝐫𝐭𝐞𝐝! ❤️❤️❤️
+
+If you are looking for a resource for learning Bayesian statistics, I highly recommend checking the Statistical Rethinking course by Prof. Richard McElreath. I consider both the book and the course as one of the best resources for learning Bayesian statistics - pure joy 🌈. 
+
+The first lecture is available now on YouTube 🎥:
+https://lnkd.in/gkzgu9U2
+
+𝐖𝐡𝐚𝐭? 
+Statistical Rethinking focuses on Bayesian methods and approaches for making inferences from data with examples in #R and STAN. Code in other languages available as well and includes another flavor of R with Tidyverse + ggplot2 + brms, Python with PyMC3, and Julia with Turing (see links below👇🏼). The book and the course go hand in hand cover the foundations of Bayesian statistics, and it includes the following topics:
+- Counting and probability (probably the best explanation I have heard)
+- Sampling
+- Linear regression and parameter estimation 
+- Splines
+- Markov Chain Monte Carlo
+- Binomial and Poisson regression
+- Generalized Linear Model
+
+𝐂𝐨𝐮𝐫𝐬𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+𝐂𝐨𝐮𝐫𝐬𝐞 𝐆𝐢𝐭𝐡𝐮𝐛: https://lnkd.in/giT2TsDJ
+𝐕𝐢𝐝𝐞𝐨 𝐥𝐞𝐜𝐭𝐮𝐫𝐞𝐬 (2019 𝐯𝐞𝐫𝐬𝐢𝐨𝐧): https://lnkd.in/gbi-RiE3
+𝐁𝐨𝐨𝐤 𝐦𝐚𝐢𝐧 𝐜𝐨𝐝𝐞 (𝐑 𝐯𝐞𝐫𝐬𝐢𝐨𝐧): https://lnkd.in/gizQsa5z
+𝐓𝐢𝐝𝐞𝐯𝐞𝐫𝐬𝐞 𝐯𝐞𝐫𝐬𝐢𝐨𝐧: https://lnkd.in/gXmpKPHt
+𝐏𝐲𝐭𝐡𝐨𝐧 𝐯𝐞𝐫𝐬𝐢𝐨𝐧: https://lnkd.in/gYvkwvPe
+𝐉𝐮𝐥𝐢𝐚 𝐯𝐞𝐫𝐬𝐢𝐨𝐧𝐬: https://lnkd.in/g9e__-7m
+
